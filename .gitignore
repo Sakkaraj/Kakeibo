@@ -1,0 +1,5 @@
+buildServer.json
+.vscode/
+.bundle/
+.build/
+.cursor/
